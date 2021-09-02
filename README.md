@@ -1,2 +1,2 @@
 # testGAAM
-test GAAM
+test GAAM a first test
